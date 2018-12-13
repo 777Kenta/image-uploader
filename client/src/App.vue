@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="Dropzone logo" src="./assets/dropzone.png" width="1500" height="300">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
